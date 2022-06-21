@@ -1,6 +1,6 @@
 I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia.
 
-:telescope: I’m currently working on some projects
+- :telescope: I’m currently working on some projects
 
 - :seedling: Currently learning Java/C#
 
