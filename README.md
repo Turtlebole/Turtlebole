@@ -30,5 +30,5 @@ Email:   [babic.bojan62@gmail.com]
 
 ## My coding activity
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ff445&show_icons=true&theme=dracula) <br/>
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ff445&theme=dracula&exclude_repo=aether)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Turtlebole&show_icons=true&theme=dracula) <br/>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Turtlebole&theme=dracula&exclude_repo=aether)
