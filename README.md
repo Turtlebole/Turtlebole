@@ -28,10 +28,6 @@ Java / C#
 <img align="left" alt="EclipseIDE" width="30px" src="https://seeklogo.com/images/E/eclipse-logo-85FE4BEA34-seeklogo.com.png"/><br>
 
 
-
-
-
-
 ### Contact me
 Discord: Turtlebole#1599 \
 Email:   [babic.bojan62@gmail.com]
