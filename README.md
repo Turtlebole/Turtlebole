@@ -4,7 +4,7 @@ I'm a 20 year old software engineering student from Serbia.
 
 ## Languages and IDEs
 
-### Languages I know:
+### Languages I can work with:
 
 <img style="padding: 1.5px" align="left" alt="Html" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 <img style="padding: 1.5px" align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
@@ -22,7 +22,8 @@ Java / C#
 
 ### IDEs I use:
 
-<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/><br>
+<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
+<img align="left" alt="VSCode" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/><br>
 
 ### Contact me
 Discord: Turtlebole#1599 \
