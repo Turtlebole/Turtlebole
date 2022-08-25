@@ -8,11 +8,12 @@ I'm a 20 year old software engineering student from Serbia.
 
 <img style="padding: 1.5px" align="left" alt="Html" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 <img style="padding: 1.5px" align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+<img style="padding: 1.5px" align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img style="padding: 1.5px" align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-<img style="padding: 1.5px" align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"/>
+<img style="padding: 1.5px" align="left" alt="Julia" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"/>
 <img style="padding: 1.5px" align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg"/>
-<img style="padding: 1.5px" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img style="padding: 1.5px" alt="CSharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
+<img style="padding: 1.5px" align="left" alt="CSharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
+
 
 
 ### Languages I am learning:
