@@ -21,7 +21,7 @@ I'm a 20 year old software engineering student from Serbia.
 <img style="padding: 1.5px" align="left" alt="Blender" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"/>
 <img style="padding: 1.5px" align="left" alt="NodeJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
 <img style="padding: 1.5px" align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img style="padding: 1.5px" align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
+<img style="padding: 1.5px" align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/><br>
 
 
 ### IDEs I use:
