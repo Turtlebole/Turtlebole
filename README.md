@@ -24,7 +24,12 @@ Java / C#
 
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
 <img align="left" alt="VisualStudio" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/220px-Visual_Studio_Icon_2019.svg.png"/>
-<img align="left" alt="IntelliJ" width="30px" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"/><br>
+<img align="left" alt="IntelliJ" width="30px" src="https://raw.githubusercontent.com/github/explore/caa262eeb858e81282d6f651d6eef1f8730b54ba/topics/intellij-idea/intellij-idea.png"/>
+<img align="left" alt="VSCode" width="30px" src="https://www.nicepng.com/png/detail/264-2648074_eclipse-logo-png-transparent-eclipse-ide.png
+"/><br>
+
+
+
 
 
 
