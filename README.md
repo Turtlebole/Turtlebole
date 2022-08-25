@@ -16,9 +16,11 @@ I'm a 20 year old software engineering student from Serbia.
 
 
 
-### Languages I am learning:
+### Tools and Software:
 
-Java / C#
+<img style="padding: 1.5px" align="left" alt="NodeJS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg"/>
+<img style="padding: 1.5px" align="left" alt="Git" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img style="padding: 1.5px" align="left" alt="Firebase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
 
 ### IDEs I use:
 
