@@ -23,7 +23,7 @@ Java / C#
 ### IDEs I use:
 
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
-<img align="left" alt="VSCode" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/><br>
+<img align="left" alt="VSCode" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/220px-Visual_Studio_Icon_2019.svg.png"/><br>
 
 ### Contact me
 Discord: Turtlebole#1599 \
