@@ -33,8 +33,7 @@ I'm a 20 year old software engineering student from Serbia.
 
 
 ### Contact me
-Discord: Turtlebole#1599 \
-Email:   [babic.bojan62@gmail.com]
+Discord: Turtlebole#1599 
   
 
 ## My coding activity
