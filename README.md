@@ -33,7 +33,7 @@ I'm a 20 year old software engineering student from Serbia.
 
 
 ### Contact me:
-Discord: Turtlebole#1599
+Discord: Turtlebole#1599 \
 Discord: ff445#4955
   
 
