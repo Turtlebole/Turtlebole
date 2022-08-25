@@ -1,39 +1,34 @@
-I am a Software Engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Serbia.
+## About me
+Hi! I am Turtlebole, more commonly known as Bojan.
+I'm a 20 year old software engineering student from Serbia.
 
-- :telescope: I’m currently working on some projects
+## Languages and IDEs
 
-- :seedling: Currently learning Java/C#
+### Languages I know:
 
-- :zap: In my free time I like to play games
-
----
-
-### My Skill Set :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/1513e94cd7b84f2536d7ba959d5e2c28cd951d1a015ff39571e503dfc9f45751/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6373686172702d6f726967696e616c2e737667" title="CSharp" alt"CSharp" width="40" height="40"/>&nbsp
-   <img src="https://camo.githubusercontent.com/d10e5aa8ba67f1eb109da4e98cd75adfa42df2e6019f8222cfa14c0088ac674d/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f707974686f6e2d6f726967696e616c2e737667" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-   <img src="https://avatars.githubusercontent.com/u/743164?s=280&amp;v=4" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
-  <img src="https://camo.githubusercontent.com/48c9507b62d83559dc3aef4f3951293b15ab2f5fa1029bdf6ec42f9fa062e775/68747470733a2f2f70726f66696c696e61746f722e7269736861762e6465762f736b696c6c732d6173736574732f6e6f64656a732d6f726967696e616c2d776f72646d61726b2e737667" title="Node" alt="Node" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+<img style="padding: 1.5px" align="left" alt="Html" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+<img style="padding: 1.5px" align="left" alt="CSS" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+<img style="padding: 1.5px" align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+<img style="padding: 1.5px" align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"/>
+<img style="padding: 1.5px" align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg"/>
+<img style="padding: 1.5px" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img style="padding: 1.5px" alt="CSharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/>
 
 
-<!--
-**Turtlebole/Turtlebole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages I am learning:
 
-Here are some ideas to get you started:
+Java / C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### IDEs I use:
+
+<img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
+
+## Contact me
+Discord: Turtlebole#1599 \
+Email:   [babic.bojan62@gmail.com]
+  
+
+## My coding activity
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ff445&show_icons=true&theme=dracula) <br/>
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ff445&theme=dracula&exclude_repo=aether)
