@@ -14,6 +14,9 @@ I enjoy playing games at my free time.
 <img style="padding: 1.5px" align="left" alt="Julia" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg"/>
 <img style="padding: 1.5px" align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg"/>
 <img style="padding: 1.5px" align="left" alt="CSharp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"/><br>
+<img style="padding: 1.5px" align="left" alt="C" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg
+"/><br>
+
 
 
 
