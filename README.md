@@ -1,6 +1,7 @@
 ## About me
 Hi! I am Turtlebole, more commonly known as Bojan. \
 I'm a 20 year old software engineering student from Serbia.
+I enjoy playing games at my free time.
 
 ## Languages and IDEs
 
@@ -33,8 +34,10 @@ I'm a 20 year old software engineering student from Serbia.
 
 
 ### Contact me:
-Discord: Turtlebole#1599 
-  
+
+Discord: Turtlebole#1599 \ 
+Discord 2: ff445#4955
+
 
 ## My coding activity
 
