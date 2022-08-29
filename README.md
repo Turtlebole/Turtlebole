@@ -34,8 +34,10 @@ I enjoy playing games at my free time.
 
 
 ### Contact me:
+
 Discord: Turtlebole#1599 \ 
 Discord 2: ff445#4955
+
 
 ## My coding activity
 
