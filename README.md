@@ -3,7 +3,7 @@
 ```
 
 <a href="http://git.liveemily.xyz/emily">
-   <img align="left" src="https://imgur.com/a/KqoJ6gD" alt="pfp" width="260" height="260" id="pfp">
+   <img align="left" src="https://imgur.com/0DlNkfM" alt="pfp" width="260" height="260" id="pfp">
 </a>
 
 ```cs
