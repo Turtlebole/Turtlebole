@@ -2,11 +2,8 @@
 > neofetch
 ```
 
-   <img align="left" src="https://imgur.com/0DlNkfM" alt="pfp" width="260" height="260" id="pfp">
-
-
 ```cs
-Bojan @ Archie
+Bojan @
 -------------------------
 OS: Windows 10 Education N x86_64 
 Location: Serbia
