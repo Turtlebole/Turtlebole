@@ -1,9 +1,18 @@
-## About me
-Hi! I am Turtlebole, more commonly known as Bojan. \
-I'm a 20 year old software engineering student from Serbia.
-I enjoy playing games at my free time.
+```zsh
+> neofetch
+```
 
-## My coding activity
+<a href="http://git.liveemily.xyz/emily">
+   <img align="left" src="https://imgur.com/a/KqoJ6gD" alt="pfp" width="260" height="260" id="pfp">
+</a>
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Turtlebole&show_icons=true&theme=dracula) <br/>
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Turtlebole&theme=dracula&exclude_repo=aether)
+```cs
+Bojan @ Archie
+-------------------------
+OS: Windows 10 Education N x86_64 
+Location: Serbia
+Languages: Serbian (native), Hungarian (native), English (advanced), German (simple)
+Programming: Python, JavaScript, Java, C#, Rust
+Learning: C# and Java
+Discord: Turtlebole#4955
+```
