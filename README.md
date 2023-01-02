@@ -1,7 +1,7 @@
 ```zsh
 > neofetch
 ```
-```cr
+```cu
 Bojan @
 -------------------------
 OS: Windows 10 Education N x86_64 
