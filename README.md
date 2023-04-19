@@ -9,7 +9,8 @@ Location: Serbia
 Languages: Serbian (native), Hungarian (native), English (advanced), German (simple)
 Learning: Java and C# 
 Discord: Turtlebole#4955
-
+```
+## Skill stack
 ![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=flat&logo=.NET&logoColor=white)&nbsp;
 ![Go](https://img.shields.io/badge/Go-00ADD8.svg?&style=flat&logo=Go&logoColor=white)&nbsp;
@@ -22,4 +23,3 @@ Discord: Turtlebole#4955
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
-```
