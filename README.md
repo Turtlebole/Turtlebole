@@ -1,12 +1,2 @@
-```zsh
-> winfetch
-```
-```cr
-Bojan @
--------------------------
-OS: Windows 10 Education N x86_64 
-Location: Serbia
-Languages: Serbian (native), Hungarian (native), English (advanced), German (simple)
-Learning: Go, MongoDB, Rust, C++
-Discord: turtlebole
-```
+Hi there 👋
+I'm Bojan, sometimes I like to code, watch anime and play games, you can add me on discord: Turtlebole
