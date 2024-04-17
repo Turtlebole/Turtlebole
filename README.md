@@ -1,16 +1,30 @@
-### Hi there 👋
+<div align="center">
+<img src="https://c.wallhere.com/photos/d4/2d/vertical_anime_anime_girls_sailor_uniform_clouds_closed_eyes-1948611.jpg!d" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=e4d4be&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=140&lines=Hello+there,+I'm+Bojan;Interested+in+frontend,+gaming+and+anime." width="70%" />
+<pre>
+  💻 Frontend Developer at <a href="https://github.com/ProjectLaplacia"><span>Project: Laplacia</span></a>
+  💬 Contact me on <a href="https://discord.com/users/686681599894618144"><span>Discord</span></a>!
+</pre>
+</div>
 
-<!--
-**Turtlebole/Turtlebole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Languages
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=html"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=css"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=javascript"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=typescript"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=java"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=cs"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=go"></code>
 
-Here are some ideas to get you started:
+- Frameworks
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=angular"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=react"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=next"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=spring"></code>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Databases
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=postgres"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=mysql"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=mongodb"></code>
+
+
