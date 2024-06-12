@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=e4d4be&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=140&lines=Hello+there,+I'm+Bojan;Interested+in+frontend,+gaming+and+anime." width="100%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=4C516D&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1600&height=140&lines=Hello+there,+I'm+Bojan;Interested+in+frontend,+gaming+and+anime." width="100%" />
 <pre>
   💻 Frontend Developer at <a href="https://github.com/ProjectLaplacia"><span>Project: Laplacia</span></a>
   💬 Contact me on <a href="https://discord.com/users/686681599894618144"><span>Discord</span></a>!
