@@ -18,6 +18,7 @@
 - Frameworks
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=angular"></code>
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=react"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=vue"></code>
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=next"></code>
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=spring"></code>
 
