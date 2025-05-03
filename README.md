@@ -1,6 +1,6 @@
 <div align="center">
 <pre>
-  💻 Frontend Developer at <a href="https://github.com/ProjectLaplacia"><span>Project: Laplacia</span></a> & <a href="https://github.com/MCCN-DEV"><span>MCCN</span></a>
+  💻 Frontend Developer at <a href="https://github.com/MCCN-DEV"><span>MCCN</span></a>
   💬 Contact me on <a href="https://discord.com/users/686681599894618144"><span>Discord</span></a>!
 </pre>
 </div>
