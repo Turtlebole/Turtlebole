@@ -1,10 +1,3 @@
-<div align="center">
-<pre>
-  💻 Frontend Developer at <a href="https://github.com/MCCN-DEV"><span>MCCN</span></a>
-  💬 Contact me on <a href="https://discord.com/users/686681599894618144"><span>Discord</span></a>!
-</pre>
-</div>
-
 - Languages
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=html"></code>
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=css"></code>
@@ -26,5 +19,3 @@
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=postgres"></code>
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=mysql"></code>
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=mongodb"></code>
-
-
