@@ -19,3 +19,7 @@
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=postgres"></code>
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=mysql"></code>
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=mongodb"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=aws"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=firebase"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=supabase"></code>
+
