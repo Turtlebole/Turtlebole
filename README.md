@@ -13,6 +13,7 @@
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=vue"></code>
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=nuxt"></code>
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=next"></code>
+<code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=astro"></code>
 <code><img height="20" alt="javascript" src="https://skillicons.dev/icons?i=spring"></code>
 
 - Databases
